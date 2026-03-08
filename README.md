@@ -7,6 +7,7 @@ A fine-tuned DistilBERT model that classifies news articles as Real or Fake.
 - Dataset: WELFake (10,000 samples)
 - Accuracy: 99%
 - F1 Score: 0.99
+  
 
 ## Tech Stack
 - Hugging Face Transformers
