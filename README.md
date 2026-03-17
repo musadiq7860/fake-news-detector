@@ -1,4 +1,4 @@
-# Fake News Detector
+ # Fake News Detector
 
 A fine-tuned DistilBERT model that classifies news articles as Real or Fake.
 
