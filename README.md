@@ -1,6 +1,6 @@
  # Fake News Detector
 
-A fine-tuned DistilBERT model that classifies news articles as Real or Fake.
+A fine-tuned DistilBERT model that classifies news  articles as Real or Fake.
 
 ## Model
 - Base: `distilbert-base-uncased`
